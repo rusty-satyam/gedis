@@ -49,7 +49,7 @@ Gedis supports a wide subset of Redis commands across various categories:
 
 ### Installation
 ```bash
-git clone [https://github.com/rusty-satyam/gedis.git](https://github.com/rusty-satyam/gedis.git)
+git clone https://github.com/rusty-satyam/gedis.git
 cd gedis
 go build -o gedis ./app
 ```
