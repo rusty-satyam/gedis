@@ -68,7 +68,7 @@ To start a second instance that replicates the primary:
 ./gedis --port 6380 --replicaof "localhost 6379"
 ```
 
-Testing with Redis-CLI
+## Testing with Redis-CLI
 
 You can use the standard redis-cli tool to interact with Gedis:
 ```Bash
